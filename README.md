@@ -6,6 +6,17 @@ We have synthetic population files available for States and Counties. You can ac
 
 Note: The county files are named by a five-digit fips code (two-digit state code + three-digit county code). The state files  are named only by the two-digit state code.
 
+**The files should be copied into $FRED_HOME/populations to enable FRED to access the data.**
+
+These population files are used by the following versions of FRED:
+- FRED-v2.9.1
+- FRED-v2.10.0
+- FRED-v2.11.0
+- FRED-v2.12.0
+- FRED_HAZEL_2.0
+- FRED-SickLeave-v1.2
+- FRED-SickLeave-v2.0
+
 FRED's U.S. synthetic populations uses the 2010 Decennial census and the 2007-2011 American Community Survey (ACS) as its sources of population counts and characteristics. This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.
 
 This work was supported by the Models of Infectious Disease Agency Study (MIDAS) from the National Institute of General Medical Sciences (NIGMS), grant number U24GM087704.
