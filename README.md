@@ -9,6 +9,7 @@ Note: The county files are named by a five-digit fips code (two-digit state code
 **The files should be copied into $FRED_HOME/populations to enable FRED to access the data.**
 
 These population files are used by the following versions of FRED:
+- FRED-v2.9.0
 - FRED-v2.9.1
 - FRED-v2.10.0
 - FRED-v2.11.0
