@@ -17,7 +17,11 @@ These population files are used by the following versions of FRED:
 - FRED-SickLeave-v1.2
 - FRED-SickLeave-v2.0
 
-FRED's U.S. synthetic populations were generated from 2010 U.S. Decennial Census and 2007-2011 5-year American Community Survey data. The data are computer representations of the distribution of households by these four demographic variables, but do not represent actual households or locations of actual households.
+FRED's U.S. synthetic populations were generated from 2010 U.S. Decennial Census and 2007-2011 5-year American Community Survey data. The data are computer representations of the distribution of households by four demographic variables, but do not represent actual households or locations of actual households:
+- Income of the household
+- Number of occupants in the household
+- Race of the head of household
+- Age of the head of household
 
 No personally identifiable information was used to generate these data.
 
