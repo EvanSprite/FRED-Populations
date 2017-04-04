@@ -9,6 +9,13 @@ Note: The county files are named by a five-digit fips code (two-digit state code
 
 These population files are used by FRED up to and including FRED-v2.8.1
 
-FRED's U.S. synthetic populations uses the 2000 Decennial census and the 2005-2009 American Community Survey (ACS) as its sources of population counts and characteristics. This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.
+FRED's U.S. synthetic populations were generated from 2000 U.S. Decennial Census and 2005-2009 5-year American Community Survey data. The data are computer representations of the distribution of households by four demographic variables, but do not represent actual households or locations of actual households:
+- Income of the household
+- Number of occupants in the household
+- Race of the head of household
+- Age of the head of household
+This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.
 
-This work was supported by the Models of Infectious Disease Agency Study (MIDAS) from the National Institute of General Medical Sciences (NIGMS), grant number U24GM087704.
+No personally identifiable information was used to generate these data.
+
+Funded under the Models of Infectious Disease Agent Study (MIDAS) grant 1-U24-GM087704 from NIGMS.
