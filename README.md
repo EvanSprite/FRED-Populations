@@ -17,9 +17,11 @@ These population files are used by the following versions of FRED:
 - FRED-SickLeave-v1.2
 - FRED-SickLeave-v2.0
 
-FRED's U.S. synthetic populations uses the 2010 Decennial census and the 2007-2011 American Community Survey (ACS) as its sources of population counts and characteristics. This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.
+FRED's U.S. synthetic populations were generated from 2010 U.S. Decennial Census and 2007-2011 5-year American Community Survey data. The data are computer representations of the distribution of households by these four demographic variables, but do not represent actual households or locations of actual households.
 
-This work was supported by the Models of Infectious Disease Agency Study (MIDAS) from the National Institute of General Medical Sciences (NIGMS), grant number U24GM087704.
+No personally identifiable information was used to generate these data.
+
+Funded under the Models of Infectious Disease Agent Study (MIDAS) grant 1-U24-GM087704 from NIGMS.
 
 Please cite the following in any publication using this data:
 
