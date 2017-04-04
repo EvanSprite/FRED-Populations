@@ -15,8 +15,7 @@ FRED's U.S. synthetic populations were generated from 2000 U.S. Decennial Census
 - Race of the head of household
 - Age of the head of household
 
-This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.
-
+This version also uses the Integrated Climate and Land Use System (ICLUS) gridded population dataset to place households across the landscape.  
 No personally identifiable information was used to generate these data.
 
 Funded under the Models of Infectious Disease Agent Study (MIDAS) grant 1-U24-GM087704 from NIGMS.
